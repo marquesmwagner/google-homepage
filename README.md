@@ -1,1 +1,1 @@
-This is a page through the 'Web Development 101' course at [The Odin Project](https://github.com/Saranoya/odin/tree/master/html_css/google/homepage)
+This is a page through the 'Web Development 101' course at [The Odin Project](https://github.com/Saranoya/odin/tree/master/html_css/google/homepage), using HTML, CSS and NormalizeCSS.
